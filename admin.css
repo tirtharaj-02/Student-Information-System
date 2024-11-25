@@ -1,0 +1,22 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+.header
+{
+
+	background-color: rgba(8, 117, 108, 0.925);
+	line-height: 80px;
+	padding-left: 30px;	
+}
+
+
+.logout
+{
+	float: right;
+	padding-right: 30px;
+}
+
+
